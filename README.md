@@ -6,7 +6,7 @@
 
 The orchestration, storage, and Artificial Intelligence core of the **Genesis** platform. It is designed with a resilient two-layer architecture to handle user requests, manage authentication, and connect to local LLM models via Ollama to generate code and analyze UML diagrams.
 
-> 🖥️ **Frontend repository:** https://github.com/fernandomartin18/TFG-Frontend.
+> 🖥️ **Frontend repository:** https://github.com/fernandomartin18/Genesis-Frontend.
 
 > 🌐 **Learn more:** Visit the [Genesis landing page](https://fernandomartin.tech/genesis) for a full project overview.
  
