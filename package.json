@@ -1,7 +1,7 @@
 {
-  "name": "tfg-backend-api",
+  "name": "genesis-backend-api",
   "version": "1.0.0",
-  "description": "API Gateway con Express para TFG - Intermediario entre frontend y FastAPI",
+  "description": "Express API Gateway for GENESIS - Middleware between frontend and FastAPI",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
@@ -15,10 +15,10 @@
     "api",
     "gateway",
     "ollama",
-    "tfg"
+    "genesis"
   ],
   "author": "Fernando Martin",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^1.6.2",
     "bcrypt": "^6.0.0",
